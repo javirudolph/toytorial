@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Suggests: 
     learnr
+URL: https://github.com/javirudolph/toytorial
+BugReports: https://github.com/javirudolph/toytorial/issues
